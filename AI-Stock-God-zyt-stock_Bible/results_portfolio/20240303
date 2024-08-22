@@ -1,0 +1,7 @@
+portfolio_status = {
+        "cash": 4.35,
+        "stocks": [{'code': '600023.SH', 'name': 'Zhejiang Energy Group', 'shares': 4597, 'price': 5.26},
+                   {'code': '300124.SZ', 'name': 'Shenzhen Inovance Technology', 'shares': 623, 'price': 63.85}],
+        "date": "20240303"
+    }
+    date = "20240303"

@@ -1,0 +1,6 @@
+portfolio_status = {
+        "cash": 0.88,
+        "stocks": [{'code': '000651.SH', 'quantity': 2828, 'price': 36.69}],
+        "date": "20230706"
+    }
+    date = "20230706"

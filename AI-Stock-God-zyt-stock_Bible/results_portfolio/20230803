@@ -1,0 +1,8 @@
+portfolio_status = {
+        "cash": 11.59,
+        "stocks": [{'code': '601857.SH', 'name': 'PetroChina Company Limited', 'shares': 1500, 'price': 7.58},
+        {'code': '002594.SZ', 'name': 'BYD Company Limited', 'shares': 283, 'price': 268.23},
+        {'code': '601012.SH', 'name': 'Longi Green Energy Technology', 'shares': 534, 'price': 30.85},],
+        "date": "20230803"
+    }
+    date = "20230803"

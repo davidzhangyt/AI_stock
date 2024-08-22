@@ -1,0 +1,9 @@
+portfolio_status = {
+        "cash": 29339,
+        "stocks": [{'code': '600282.SH', 'name': 'Nanjing Steel United', 'shares': 5000, 'price': 3.91},
+        {'code': '601857.SH', 'name': 'PetroChina Company Limited', 'shares': 3000, 'price': 6.00},
+        {'code': '601012.SH', 'name': 'LONGi Green Energy Technology', 'shares': 500, 'price': 40.63},
+        {'code': '002594.SZ', 'name': 'BYD Company Limited', 'shares': 50, 'price': 255.92}],
+        "date": "20230403"
+    }
+    date = "20230403"

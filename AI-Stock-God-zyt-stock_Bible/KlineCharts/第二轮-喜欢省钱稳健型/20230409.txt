@@ -1,0 +1,6 @@
+portfolio_status = {
+        "cash": 0.74,
+        "stocks": [{'code': '688235.SH', 'name': '百济恒瑞', 'shares': 647, 'price': 154.58}],
+        "date": "20230409"
+    }
+    date = "20230409"

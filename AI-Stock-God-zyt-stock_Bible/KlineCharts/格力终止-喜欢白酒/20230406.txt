@@ -1,0 +1,6 @@
+portfolio_status={
+        "cash":100000,
+        "stocks":[],
+        "date":"20230406"
+    }
+    date="20230406"

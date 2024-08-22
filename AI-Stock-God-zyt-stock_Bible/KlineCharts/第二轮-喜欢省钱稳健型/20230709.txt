@@ -1,0 +1,8 @@
+portfolio_status = {
+        "cash": 12697.69,
+        "stocks": [{"code": "688235.SH", "name": "百济恒瑞", "shares": 147, "price": 147.49},
+                   {"code": "002230.SZ", "name": "Irisity AB", "shares": 753, "price": 66.35},
+                   {"code": "300750.SZ", "name": "CATL", "shares": 50, "price": 222.25}],
+        "date": "20230709"
+    }
+    date = "20230709"

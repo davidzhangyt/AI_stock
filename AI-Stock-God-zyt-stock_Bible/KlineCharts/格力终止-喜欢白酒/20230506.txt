@@ -1,0 +1,5 @@
+"cash":0.55,
+        "stocks":[{'code': '600519.SH', 'quantity': 55, 'price': 1796.96},{'code': '000651.SH', 'quantity': 275, 'price': 35.15}],
+        "date":"20230606"
+    }
+    date="20230606"

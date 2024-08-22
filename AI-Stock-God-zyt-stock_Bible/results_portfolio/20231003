@@ -1,0 +1,6 @@
+portfolio_status = {
+        "cash": 47.01,
+        "stocks": [{'code': '601012.SH', 'name': 'Longi Green Energy Technology', 'shares': 3405, 'price': 27.28},],
+        "date": "20231003"
+    }
+    date = "20231003"

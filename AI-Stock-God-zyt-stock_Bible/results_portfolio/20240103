@@ -1,0 +1,7 @@
+portfolio_status = {
+        "cash": 46.80,
+        "stocks": [{'code': '688339.SH', 'name': 'SinoHytec', 'shares': 767, 'price': 44.56},
+                   {'code': '300124.SZ', 'name': 'Shenzhen Inovance Technology', 'shares': 623, 'price': 61.05}],
+        "date": "20240103"
+    }
+    date = "20240103"
